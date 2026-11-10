@@ -1,0 +1,13 @@
+840d8c25b3645d1361ee66079d490f1e  fabrica3d-testecaptura/app/src/main/java/com/fabrica3d/capturetest/MainActivity.java
+a8c8eb04e6ac40de1568fee51c649361  fabrica3d-testecaptura/app/src/main/java/com/fabrica3d/capturetest/CaptureService.java
+f7a8239b8f999be946bae70be6c063ac  fabrica3d-testecaptura/app/src/main/AndroidManifest.xml
+f915404b610ce164fc08bf8b3ecb071b  fabrica3d-testecaptura/build.sh
+cb6012e9264cc87a95f2317af56b65f7  fabrica3d-testecaptura/app/src/main/assets/test-scene-novo.html
+380819d5ecc8241ea382884516d4d408  fabrica3d-testecaptura/app/src/main/assets/test-scene-v4.html
+3f776a49922e8a0b0e491c2c5fe641f1  fabrica3d-testecaptura/app/src/main/assets/three.module.js
+d641bb49572ccca9326a3361595b4663  fabrica3d-testecaptura/app/src/main/assets/narracao-bunker-30s.mp3
+37854bd5b4f394bc9e2f131cb48540cc  lab-arquiteturas-video/app/src/main/java/com/labarquiteturas/video/AudioUtil.java
+2c61a7d915d94c1ee891d985f51ba42c  lab-arquiteturas-video/app/src/main/java/com/labarquiteturas/video/CaptureService.java
+882d8a023513c71338bfa6f121f38dc0  lab-arquiteturas-video/build.sh
+6bdce60e9b22a09cbd6815f58e63f1c6  lab-arquiteturas-video/app/src/main/assets/three.core.js
+3f776a49922e8a0b0e491c2c5fe641f1  lab-arquiteturas-video/app/src/main/assets/three.module.js

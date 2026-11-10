@@ -1,0 +1,6 @@
+*.keystore
+keystore.properties
+build/
+*.apk
+*.idsig
+unpacked-v1.2/
